@@ -1,10 +1,10 @@
 <title>Hello</title>
-<ul class="pageNav01">
-<li class="mae"><a href="ja-jp/">\<ja\></a></li>
-<li class="tugi"><a href="#">\<en\></a></li>
-</ul>
+<!-- <ul class="pageNav01">
+<li class="mae"><a href="#"><ja></a></li>
+<li class="tugi"><a href="#"><en></a></li>
+</ul> -->
 # bittn
-bittnは、簡単にDSLを設計するために作られたコンパイラ基板です。
+bittnは、簡単にDSLを設計するために作られたコンパイラ基盤です。
 
 ## 目次
 1. [bittnとは](docs/1)
